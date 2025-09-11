@@ -1,2 +1,2 @@
-# -alx-fe-reactjs
+# alx-fe-reactjs
 Learning React JS
