@@ -8,7 +8,7 @@ function MainContent() {
       boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)' // Subtle shadow
     }}>
       <p style={{ fontSize: '18px', color: '#555', lineHeight: '1.6' }}>
-        Explore the list of my favorite cities below.
+      I love to visit New York, Paris, and Tokyo.
       </p>
     </main>
   );
