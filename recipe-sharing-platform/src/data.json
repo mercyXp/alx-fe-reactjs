@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Indian Chicken Curry (Murgh Kari)",
+    "summary": "A classic Indian curry with yogurt, tomatoes, and aromatic spices. :contentReference[oaicite:0]{index=0}",
+    "image": "https://th.bing.com/th/id/OSK.ab1580745065a6a7ddfcedba7ec25e5b?w=200&h=126&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1"
+  },
+  {
+    "id": 2,
+    "title": "Easy Indian Butter Chicken",
+    "summary": "Creamy, buttery tomato-chicken dish popular in North India. :contentReference[oaicite:1]{index=1}",
+    "image": "https://th.bing.com/th/id/OSK.ab1580745065a6a7ddfcedba7ec25e5b?w=200&h=126&c=7&rs=1&qlt=80&o=6&cdv=1&pid=16.1"
+  },
+  {
+    "id": 3,
+    "title": "Jamaican Style Curry Chicken",
+    "summary": "A rich, spicy Caribbean curry made with habanero, thyme, and chicken. :contentReference[oaicite:2]{index=2}",
+    "image": "https://bing.com/th?id=OSK.c0549fc5b564622ad0cd06901b244bda"
+  },
+  {
+    "id": 4,
+    "title": "Yellow Chicken Curry with Coconut Milk",
+    "summary": "A mild yellow curry with chicken, potatoes, and coconut milk. :contentReference[oaicite:3]{index=3}",
+    "image": "https://bing.com/th?id=OSK.cb5a6a692192a3c2bf991bd3327afddb"
+  }
+]
