@@ -21,10 +21,10 @@ const HomePage = () => {
       </header>
 
       {/* Responsive grid */}
-      <section className="grid gap-8
-                          sm:grid-cols-2     /* ≥640px → 2 columns */
-                          lg:grid-cols-3     /* ≥1024px → 3 columns */
-                          xl:grid-cols-4">   {/* ≥1280px → 4 columns */}
+      <section className="grid grid-cols-1 gap-8
+                          sm:grid-cols-2
+                          lg:grid-cols-3
+                          xl:grid-cols-4">
         {recipes.map((recipe) => (
           <article
             key={recipe.id}
